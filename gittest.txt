@@ -8,4 +8,4 @@ dasdsadasdasdas
 lalalalalla
 
 
-add from dev dsadasdsaaaa
+Creating a new branch is quick and simple.
